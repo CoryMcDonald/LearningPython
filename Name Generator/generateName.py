@@ -1,5 +1,7 @@
 import random
 
+#todo add options for generating x amount of names and specifying whethe you want female or male
+
 #Grab male names
 maleFirstNamesFile = open('maleFirstName.txt', 'r')
 maleFirstNames = []
