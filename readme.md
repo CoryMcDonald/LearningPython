@@ -1,5 +1,5 @@
 #Projects
-##### These are a list of projects I indeed to work on to learn Python
+##### These are a list of projects I intend to work on to learn Python
 * Name Generator
 * Head/Tails
 * Temperature Converter
